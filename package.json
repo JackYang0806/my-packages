@@ -1,6 +1,6 @@
 {
-  "name": "my-packages",
-  "version": "0.0.1",
+  "name": "@yangji0806/my-packages",
+  "version": "0.1.0",
   "description": "Some vue2 components",
   "main": "index.js",
   "scripts": {

@@ -5,10 +5,10 @@
 </template>
 
 <script>
-// import ExcelImport from "../packages/excel"
+import ExcelImport from "../packages/excel"
 export default {
   name: "App",
-  // components: { ExcelImport },
+  components: { ExcelImport },
   data() {
     return {}
   },
